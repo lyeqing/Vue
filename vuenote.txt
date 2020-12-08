@@ -1,0 +1,16 @@
+npm install -g @vue/cli  //install vue
+vue --version
+vue create test
+cd test
+npm run serve
+localhost:8080
+npm run build
+
+second way:
+vue ui
+create
+select folder
+next
+select options
+
+npm install bootstrap-vue bootstrap --save
